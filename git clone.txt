@@ -1,0 +1,7 @@
+git clone --depth 1 --branch 17.0 https://github.com/odoo/odoo.git
+git clone --depth 1 --branch 17.0 git@ztt:odoo/enterprise.git
+git clone --depth 1 --branch 17.0 https://github.com/odoo/design-themes.git
+
+git clone --depth 1 --branch 18.0 https://github.com/odoo/odoo.git
+git clone --depth 1 --branch 18.0 git@ztt:odoo/enterprise.git
+git clone --depth 1 --branch 18.0 https://github.com/odoo/design-themes.git
